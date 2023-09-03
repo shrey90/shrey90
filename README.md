@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shrey90
-- 👀 I’m interested in coding
+- 👀 I’m interested in learning coding
 - 🌱 I’m currently learning python and golang
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me (shrey.shekhar@hotmail.com)
